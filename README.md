@@ -1,6 +1,6 @@
 ![GeeksHacking GenAI Workshop](images/workshop_image.jpeg)
 
-# <font color="red">__IMPORTANT__</font> Please complete the setup <ins>before</ins> the workshop.
+# <font color="red">__IMPORTANT__</font> Please complete the setup <ins>before</ins> you attend the workshop.
 
 # [0] Pre-requisite
 
