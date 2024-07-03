@@ -6,8 +6,8 @@
 
 - Notebook, not table, with a minimum of 4 CPUs and 8 GB of memory
 - Python 3.11 installed on your notebook and a Python package manager like [Conda](https://docs.conda.io/en/latest/) or [virtual environment](https://docs.python.org/3/library/venv.html).
-- An IDE or code editor of your choice with Python syntax highlighting and LSP support. The workshop will be conducted using [Visual Studio Code (VSC)](https://code.visualstudio.com/download). If you are using Visual Studio Code install the following 2 extensions
-  - [Microsoft Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- An IDE or code editor of your choice with Python syntax highlighting and LSP support. The workshop will be conducted using [Visual Studio Code (VSC)](https://code.visualstudio.com/download). If you are using Visual Studio Code install the following extension
+  - [VSC extension - Microsoft Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - You should also have Git installed
 - **Optional** - If you are familiar with [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers) and would like to use it for this workshop, please install the following:
   - [Docker](https://docs.docker.com/engine/install/)
