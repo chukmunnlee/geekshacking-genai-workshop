@@ -9,7 +9,7 @@
 - An IDE or code editor of your choice with Python syntax highlighting and LSP support. The workshop will be conducted using [Visual Studio Code (VSC)](https://code.visualstudio.com/download). If you are using Visual Studio Code install the following extension
   - [VSC extension - Microsoft Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - You should also have Git installed
-- **Optional** - If you are familiar with [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers) and would like to use it for this workshop, please install the following:
+- **ALTERNATIVE** - If you are familiar with [DevContainers](https://code.visualstudio.com/docs/devcontainers/containers) and would like to use it for this workshop, please install the following:
   - [Docker](https://docs.docker.com/engine/install/)
   - [VSC extension - Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
   - [VSC extension - DevContainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
@@ -37,7 +37,7 @@ This is a [template repository](https://docs.github.com/en/repositories/creating
 
 You will now need to select _ONE_ of the following methods for running the workshop; either directly on your notebook or in a container. 
 
-If you are running the workshop locally, then perform step [[2.1] Notebook Setup](#local); otherwise setup according to [[2.2] DevContainer Setup](#devcontainer).  The advantage of running in a container is that there are no Python installation on your notebook.
+If you are running the workshop locally, then perform step [[2.1] Notebook Setup](#local); otherwise setup according to [[2.3] DevContainer Setup](#devcontainer).  The advantage of running in a container is that there are no Python installation on your notebook.
 
 
 ## <a id="local"></a>[2.1] Notebook Setup
@@ -88,7 +88,7 @@ If you see the following output, the you have successfully setup your environmen
 
 ![Test run](images/openai_3.png)
 
-# <a id="devcontainer"></a>[2.3] OPTIONAL - Setup DevContainer
+# <a id="devcontainer"></a>[2.3] ALTERNATIVE - Setup DevContainer
 
 If you are using DevContainer, then open this repository in VSC after install all the required pre-requisites from step [0]. VSC will setup the Python environment and installed all the required packages. This can take about 5 to 20 minutes.
 
