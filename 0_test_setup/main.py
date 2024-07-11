@@ -2,7 +2,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_community.callbacks import get_openai_callback
 
-llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo", streaming=False)
+llm = ChatOpenAI(temperature=0, model="gpt-4o", streaming=False)
 
 prompt_text = """
    Answer the following question truthfully. If you do not know the answer, say I don't know.
