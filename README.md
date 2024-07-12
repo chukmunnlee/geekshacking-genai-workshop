@@ -46,7 +46,7 @@ If you are running the workshop locally, then perform step [[2.1] Notebook Setup
 Open a terminal and to create and activate your environment, eg. for Conda, 
 
 ```
-conda create geekshacking-workshop
+conda create --name geekshacking-workshop
 conda activate geekshacking-workshop 
 ```
 
